@@ -1,0 +1,17 @@
+{
+  "name": "designpatternsts",
+  "version": "1.0.0",
+  "description": "pratice of design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iraecio",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^7.15.0"
+  }
+}
