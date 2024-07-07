@@ -1,5 +1,3 @@
-// example builder pattern
-
 export abstract class PedidoBuilder {
   abstract makeCliente(): this;
   abstract makeProduto(): this;
