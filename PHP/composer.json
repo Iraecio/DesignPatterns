@@ -1,0 +1,17 @@
+{
+  "name": "cabir/php",
+  "require": {
+    "php": "^8.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Cabir\\Php\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Iraecio Carvalho",
+      "email": "iraecio@gmail.com"
+    }
+  ]
+}
